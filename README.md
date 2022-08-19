@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-Familiarizarse con los modelos y sus características.
+Familiarizarse con los modelos, sus validaciones y asociaciones.
 
 ## Notas
 - Las tablas ya existen y tienen datos
