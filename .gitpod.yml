@@ -1,0 +1,10 @@
+tasks:
+  - init: yarn install && yarn run build && yarn run build:css
+    command: bin/setup
+ports:
+  - port: 3000
+    onOpen: open-preview
+  - port: 5432
+    onOpen: ignore
+image:
+  file: .gitpod.dockerfile
