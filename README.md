@@ -14,7 +14,7 @@ Ver la sección [preparar repositorio](https://github.com/I110IS/lab1/blob/maste
 
 ## Parte 1 - [Validaciones](https://guides.rubyonrails.org/active_record_validations.html)
 
-1. Definir los modelos para las tablas `monsters`, `victims` y `attacks`.
+1. Definir manualmente los modelos para las tablas `monsters`, `victims` y `attacks`.
 1. ¿Cuántos monstruos hay en la base de datos? (usar la consola de rails)
 1. Definir una validación para que el nombre de los monstruos y las víctimas sea obligatorio.
 1. Definir una validación para que el nombre de los monstruos no se puedan repetir entre monstruos.
