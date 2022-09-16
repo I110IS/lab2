@@ -19,6 +19,7 @@ Ver la sección [preparar repositorio](https://github.com/I110IS/lab1/blob/maste
 1. Definir una validación para que el nombre de los monstruos y las víctimas sea obligatorio.
 1. Definir una validación para que el nombre de los monstruos no se puedan repetir entre monstruos.
 1. Definir una validación custom para que los monstruos con un nivel de susto superior a 5 no puedan tener víctimas menores de 18 años.
+    1. Se require resolver el ejercicio 1 de la parte 2 para implementar esta validación
 1. [rails console] Probar que todas validaciones funcionen como se esperan.
 1. Hacer un commit con todos los cambios realizados y pushear el commit al repositorio forkeado.
 
