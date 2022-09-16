@@ -33,5 +33,6 @@ module Lab2
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+    config.hosts << /.*\.gitpod\.io/
   end
 end
